@@ -1,0 +1,39 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher side.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\bin\Debug\Teacher side.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\bin\Debug\Teacher side.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher side.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher side.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form2.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form3.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form4.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form5.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form6.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form7.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form8.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form9.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Teacher side\Teacher side\bin\Debug\Database11.mdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Teacher side\Teacher side\bin\Debug\Teacher side.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form10.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\bin\Debug\Teacher side.exe.config
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher side.exe
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher side.pdb
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\bin\Debug\Database11.mdb
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\bin\Debug\Teacher side.exe
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\bin\Debug\Teacher side.pdb
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form1.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form10.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form11.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form2.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form3.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form4.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form5.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form6.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form7.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form8.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Form9.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher_side.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher side.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher side.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#教师端与学生端\Teacher side\Teacher side\obj\x86\Debug\Teacher side.csproj.ResolveComReference.cache
